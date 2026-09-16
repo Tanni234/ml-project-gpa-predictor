@@ -1,1 +1,16 @@
+Results
+This folder contains the outputs, findings, and evidence generated from the notebook (notebooks/ML_Lab01_050_Mim.ipynb) for each lab activity.
 
+Activity A — Meet the Notebook
+Output of the syntax error test (unclosed quotation mark) showing how Python parses string literals.
+Activity B — NumPy: The Array Gym
+Minimum marks and standard deviation values calculated using NumPy.
+Marks array after applying the +5 bonus (vectorized operation).
+Count of passing students from conditional indexing.
+The reshaped 2x3 matrix output.
+Activity C — Pandas: The Dataframe Detective
+Filtered DataFrame of students with ≥80% attendance, sorted in descending order.
+Summary of findings on the correlation between snack purchases and failure (noted as correlation, not causation).
+Activity D — Reproducibility Experiment
+Comparison of seeded (random.seed(42)) vs unseeded run outputs, showing that seeded runs are reproducible.
+Note: All results in this folder are preliminary and intended strictly for educational demonstration and foundational exploratory data analysis.
